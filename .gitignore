@@ -2,3 +2,4 @@
 states/
 echo.old
 echo.out
+.DS_Store
